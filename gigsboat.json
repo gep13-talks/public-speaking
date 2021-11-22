@@ -4,5 +4,22 @@
   },
   "output": {
     "markdownFile": "README.md"
-  }
+  },
+  "preContent": [
+    {
+      "raw": "<p align='center'><h1 align='center'>Gary Ewan Park - Public Speaking</h1>"
+    },
+    {
+      "raw": "<p align='center'>I love doing Open Source, Public Speaking, and automating all the things.</p></p><p align='center'><a href='gep13'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/gep13?style=social'></a></p>"
+    },
+    {
+      "format": [
+        {
+          "ul": [
+            "🌟 [GitHub Star](https://stars.github.com/profiles/gep13)"
+          ]
+        }
+      ]
+    }
+  ]
 }
