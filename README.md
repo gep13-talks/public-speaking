@@ -48,8 +48,8 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2019-1-31 | Scottish PowerShell & Devops User Group, | How to create a system of Immutable Infrastructure |  |  | UK | English |
-| 2019-1-28 | dotnetsheff | Mmmmm, Chocolatey Goodness! |  |  | UK | English |
-| 2019-1-24 | Aberdeen Developers .Net User Group | How to create a system of Immutable Infrastructure |  |  | UK | English |
+| 2019-1-28 | dotnetsheff | Adding a layer of Chocolate(y) |  | [Recording](https://www.youtube.com/watch?v=2ZAF9tgw4EY) | UK | English |
+| 2019-1-24 | Aberdeen Developers .Net User Group | How to create a system of Immutable Infrastructure |  | [Recording](https://www.youtube.com/watch?v=CWlURN0pFnI) | UK | English |
 
 
 # 2018
