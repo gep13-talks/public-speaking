@@ -9,8 +9,8 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 4
- - [Year of 2020](#2020) - total events 3
+ - [Year of 2021](#2021) - total events 2
+ - [Year of 2020](#2020) - total events 5
  - [Year of 2019](#2019) - total events 5
  - [Year of 2018](#2018) - total events 2
  - [Year of 2016](#2016) - total events 1
@@ -21,13 +21,11 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)  
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2021-11-4 | 12 Days of Chocolatey | Chocolatey in the Organization |  | [Recording](https://chocolatey.org/resources/12-days-of-chocolatey/chocolatey-in-the-organization) | UK | English |
-| 2021-11-3 | 12 Days of Chocolatey | Chocolatey Central Managements Deployments Scheduling, Semi-Connected Environments, and API |  | [Recording](https://chocolatey.zoom.us/rec/share/kx__8-8rmpcM865VJIWYi9G4ME531YR7fc9wCXntOPpLHoBHRzq-hpFumqicdaqf._23U15lBL4cf9_s6) | UK | English |
 | 2021-11-3 | Coffee and Open Source | Coffee and Open Source Interview |  | [Recording](https://www.coffeeandopensource.com/streams.html?date=2021-11-03/) | UK | English |
 | 2021-10-23 | Hacktoberfest Scotland | Getting started with Open Source Software - a Beginners Guide |  | [Recording](https://www.youtube.com/watch?v=tKdJmCvOHYU) | UK | English |
 
@@ -35,11 +33,13 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square) 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2020-11-4 | 12 Days of Chocolatey | Chocolatey in the Organization |  | [Recording](https://chocolatey.org/resources/12-days-of-chocolatey/chocolatey-in-the-organization) | UK | English |
+| 2020-11-3 | 12 Days of Chocolatey | Chocolatey Central Managements Deployments Scheduling, Semi-Connected Environments, and API |  | [Recording](https://chocolatey.zoom.us/rec/share/kx__8-8rmpcM865VJIWYi9G4ME531YR7fc9wCXntOPpLHoBHRzq-hpFumqicdaqf._23U15lBL4cf9_s6) | UK | English |
 | 2020-10-10 | Hacktoberfest Scotland | Control your GitHub Releases with GitVersion and GitReleaseManager |  | [Recording](https://www.youtube.com/watch?v=o1gmCLe6mfA) | UK | English |
 | 2020-6-23 | Chocolatey Deployments | Chocolatey Deployments - Easily Orchestrate Amazing Things! |  | [Recording](https://chocolatey.zoom.us/webinar/register/WN_MPT5b34zQnud8R0nGgpe5A) | UK | English |
 | 2020-6-22 | Scotland OSUM! | Ensuring longevity after unfortunate circumstances in OSS Projects |  | [Recording](https://scot-osum.gitlab.io/podcasts/2020/06/22/sosum-podcast-s01-ep02.html) | UK | English |
