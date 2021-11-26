@@ -40,7 +40,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2020-11-12 | .NET Conf | A piece of Cake | [Slides](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) | [Recording](https://www.youtube.com/watch?v=SlM02V1tkSc) | UK | English |
+| 2020-11-12 | .NET Conf | A piece of Cake | [Slides](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) | [Recording](https://www.youtube.com/watch?v=o38glTSZsVg) | UK | English |
 | 2020-11-4 | 12 Days of Chocolatey | Chocolatey in the Organization |  | [Recording](https://chocolatey.org/resources/12-days-of-chocolatey/chocolatey-in-the-organization) | UK | English |
 | 2020-11-3 | 12 Days of Chocolatey | Chocolatey Central Managements Deployments Scheduling, Semi-Connected Environments, and API |  | [Recording](https://chocolatey.zoom.us/rec/share/kx__8-8rmpcM865VJIWYi9G4ME531YR7fc9wCXntOPpLHoBHRzq-hpFumqicdaqf._23U15lBL4cf9_s6) | UK | English |
 | 2020-10-10 | Hacktoberfest Scotland | Control your GitHub Releases with GitVersion and GitReleaseManager |  | [Recording](https://www.youtube.com/watch?v=o1gmCLe6mfA) | UK | English |
@@ -82,7 +82,7 @@
 | 2018-6-12 | DOUGH - DevOps Usergroup Gothenburg | Mmmmm, Chocolatey Goodness! |  |  | SE | English |
 | 2018-2-19 | DDD Scotland | Mmmmm, Chocolatey Goodness! |  |  | UK | English |
 | 2018-2-9 | .NET York | A Piece of Cake |  |  | UK | English |
-| 2018-2-8 | .NET Sheffield | A Piece of Cake |  |  | UK | English |
+| 2018-2-8 | .NET Sheffield | A Piece of Cake |  | [Recording](https://www.youtube.com/watch?v=bOQLC2HXCzE) | UK | English |
 | 2018-2-7 | London .NET User Group | A Piece of Cake |  |  | UK | English |
 | 2018-2-6 | .NET Oxford | A Piece of Cake |  |  | UK | English |
 | 2018-1-30 | KC .NET User Group | A Piece of Cake |  |  | USA | English |
@@ -147,8 +147,8 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2012-10-13 | DDDNorth | Getting started with caliburn.micro and windows phone 7 | [Slides](http://www.slideshare.net/gep13/getting-started-with-caliburnmicro-and-windows-phone-7) |  | UK | English |
-| 2012-5-26 | DDD South West | StyleCop breaking down the barriers to entry | [Slides](http://www.slideshare.net/gep13/getting-started-with-caliburnmicro-and-windows-phone-7) |  | UK | English |
+| 2012-10-13 | DDDNorth | Getting started with caliburn.micro and windows phone 7 | [Slides](https://www.slideshare.net/gep13/getting-started-with-caliburnmicro-and-windows-phone-7) |  | UK | English |
+| 2012-5-26 | DDD South West | StyleCop breaking down the barriers to entry | [Slides](https://www.slideshare.net/gep13/style-cop-breaking-down-the-barriers-to-entry) |  | UK | English |
 
 
 
