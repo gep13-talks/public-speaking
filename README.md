@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-42-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-16-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-20-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-42-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-16-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-17-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-3-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Gary Ewan Park - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Public Speaking, and automating all the things.</p></p><p align='center'><a href='gep13'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/gep13?style=social'></a></p>
@@ -22,7 +22,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -35,7 +35,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square)  
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -52,7 +52,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-10-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-10-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -72,7 +72,7 @@
 # 2018
 
 
-![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -91,7 +91,7 @@
 # 2017
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -102,7 +102,7 @@
 # 2016
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -118,7 +118,7 @@
 # 2015
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -130,7 +130,7 @@
 # 2013
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -142,7 +142,7 @@
 # 2012
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
