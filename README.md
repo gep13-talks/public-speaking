@@ -9,7 +9,8 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 2
+ - [Year of 2023](#2023) - total events 1
+ - [Year of 2022](#2022) - total events 1
  - [Year of 2021](#2021) - total events 3
  - [Year of 2020](#2020) - total events 7
  - [Year of 2019](#2019) - total events 10
@@ -20,18 +21,30 @@
  - [Year of 2013](#2013) - total events 2
  - [Year of 2012](#2012) - total events 2
 
-# 2022
+# 2023
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2022-11-17 | Unhandled Exception | [Unhandled Exception Podcast Interview](pages/2023/2023-11-17.md) |  | [Recording](https://unhandledexceptionpodcast.com/posts/0063-chocolatey/) | [🇬🇧](## "undefined") | English |
-| 2022-3-3 | RunAsRadio | [RunAsRadio Interview](pages/2022/2022-03-23.md) |  | [Recording](https://runasradio.com/Shows/Show/820) | [🇬🇧](## "undefined") | English |
+| 2023-11-17 | Unhandled Exception | [Unhandled Exception Podcast Interview](pages/2023/2023-11-17.md) |  | [Recording](https://unhandledexceptionpodcast.com/posts/0063-chocolatey/) | [🇬🇧](## "undefined") | English |
+
+
+# 2022
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-3-23 | RunAsRadio | [RunAsRadio Interview](pages/2022/2022-03-23.md) |  | [Recording](https://runasradio.com/Shows/Show/820) | [🇬🇧](## "undefined") | English |
 
 
 # 2021
@@ -186,6 +199,6 @@
 
 
 
-*page updated on 2024-01-24T08:55:20.443Z*
+*page updated on 2024-01-24T08:58:31.852Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
