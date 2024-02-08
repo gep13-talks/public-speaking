@@ -32,7 +32,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2024-2-7 | Swetugg Stockholm | [Swetugg Stocklhom](pages/2024/2024-02-07.md) | [Slides](https://gep13-talks.github.io/GitHubReleaseDemos/) |  | [🇸🇪](## "Sweden") | English |
+| 2024-2-7 | Swetugg Stockholm | [Swetugg Stockholm](pages/2024/2024-02-07.md) | [Slides](https://gep13-talks.github.io/GitHubReleaseDemos/) |  | [🇸🇪](## "Sweden") | English |
 
 
 # 2023
@@ -215,6 +215,6 @@
 
 
 
-*page updated on 2024-02-08T17:32:53.066Z*
+*page updated on 2024-02-08T17:33:28.272Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
