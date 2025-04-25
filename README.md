@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-47-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-16-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-19-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-6-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-3-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-48-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-16-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-20-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-6-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars">  <img src="https://img.shields.io/badge/workshops-3-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Gary Ewan Park - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Public Speaking, and automating all the things.</p></p><p align='center'><a href='gep13'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/gep13?style=social'></a></p>
@@ -9,6 +9,7 @@
 # Table of Contents
 
 
+ - [Year of 2025](#2025) - total events 1
  - [Year of 2024](#2024) - total events 1
  - [Year of 2023](#2023) - total events 3
  - [Year of 2022](#2022) - total events 1
@@ -21,6 +22,19 @@
  - [Year of 2015](#2015) - total events 2
  - [Year of 2013](#2013) - total events 2
  - [Year of 2012](#2012) - total events 2
+
+# 2025
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-4-26 | DDDSW 2025 | [DDDSW 2025](pages/2025/2025-04-26.md) | [Slides](https://gep13-talks.github.io/GitHubReleaseDemos/) |  | [🇬🇧](## "undefined") | English |
+
 
 # 2024
 
@@ -215,6 +229,6 @@
 
 
 
-*page updated on 2024-02-08T17:33:28.272Z*
+*page updated on 2025-04-25T20:36:30.733Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
