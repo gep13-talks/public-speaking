@@ -75,7 +75,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2022-3-23 | RunAsRadio | [RunAsRadio Interview](pages/2022/2022-03-23.md) |  | [Recording](https://runasradio.com/Shows/Show/820) | [🇬🇧](## "undefined") | English |
+| 2022-3-23 | RunAsRadio | [Chocolatey for Business](pages/2022/2022-03-23.md) |  | [Recording](https://runasradio.com/Shows/Show/820) | [🇬🇧](## "undefined") | English |
 
 
 # 2021
@@ -90,7 +90,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-11-3 | Coffee and Open Source | [Coffee and Open Source Interview](pages/2021/2021-11-03.md) |  | [Recording](https://www.coffeeandopensource.com/streams.html?date=2021-11-03/) | [🇬🇧](## "undefined") | English |
 | 2021-10-23 | Hacktoberfest Scotland | [Getting started with Open Source Software - a Beginners Guide](pages/2021/2021-10-23.md) |  | [Recording](https://www.youtube.com/watch?v=tKdJmCvOHYU) | [🇬🇧](## "undefined") | English |
-| 2021-2-3 | Scottish Developers | [A piece of Cake](pages/2021/2021-02-03.md) | [Slides](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/scottishdevelopers2021/Scottish-Developers-2021.pptx) | [Recording](https://www.youtube.com/watch?v=gdfoXoe_xBs&list=PL84yg23i9GBiVpMWYN9sMZ0lGK8oqmAp6&index=7) | [🇬🇧](## "undefined") | English |
+| 2021-2-3 | Scottish Developers | [A Piece of Cake](pages/2021/2021-02-03.md) | [Slides](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/scottishdevelopers2021/Scottish-Developers-2021.pptx) | [Recording](https://www.youtube.com/watch?v=gdfoXoe_xBs&list=PL84yg23i9GBiVpMWYN9sMZ0lGK8oqmAp6&index=7) | [🇬🇧](## "undefined") | English |
 
 
 # 2020
@@ -103,7 +103,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2020-11-12 | .NET Conf | [A piece of Cake](pages/2020/2020-11-12.md) | [Slides](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) | [Recording](https://www.youtube.com/watch?v=o38glTSZsVg) | [🇬🇧](## "undefined") | English |
+| 2020-11-12 | .NET Conf | [A Piece of Cake](pages/2020/2020-11-12.md) | [Slides](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) | [Recording](https://www.youtube.com/watch?v=o38glTSZsVg) | [🇬🇧](## "undefined") | English |
 | 2020-11-4 | 12 Days of Chocolatey | [Chocolatey in the Organization](pages/2020/2020-12-04.md) |  | [Recording](https://chocolatey.org/resources/12-days-of-chocolatey/chocolatey-in-the-organization) | [🇬🇧](## "undefined") | English |
 | 2020-11-3 | 12 Days of Chocolatey | [Chocolatey Central Managements Deployments Scheduling, Semi-Connected Environments, and API](pages/2020/2020-12-03.md) |  | [Recording](https://chocolatey.zoom.us/rec/share/kx__8-8rmpcM865VJIWYi9G4ME531YR7fc9wCXntOPpLHoBHRzq-hpFumqicdaqf._23U15lBL4cf9_s6) | [🇬🇧](## "undefined") | English |
 | 2020-10-10 | Hacktoberfest Scotland | [Control your GitHub Releases with GitVersion and GitReleaseManager](pages/2020/2020-10-10.md) |  | [Recording](https://www.youtube.com/watch?v=o1gmCLe6mfA) | [🇬🇧](## "undefined") | English |
@@ -230,6 +230,6 @@
 
 
 
-*page updated on 2025-12-19T12:56:44.798Z*
+*page updated on 2025-12-19T13:00:30.759Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
